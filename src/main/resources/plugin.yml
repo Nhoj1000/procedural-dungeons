@@ -1,0 +1,9 @@
+name: ProceduralDungeons
+version: ${project.version}
+main: io.github.nhoj1000.proceduraldungeons.ProceduralDungeons
+api-version: 1.16
+authors: [ Nhoj1000 ]
+description: Allows creation of custom procedurally dungeons
+commands:
+  testcmd:
+    description: summons test structure
